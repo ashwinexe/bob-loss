@@ -1,0 +1,15 @@
+{
+  "name": "bob-loss",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "description": "A quiet photo-painting studio, voiced by Gradium.",
+  "scripts": {
+    "dev": "bun server.ts",
+    "voices": "bun scripts/prepare.ts voices",
+    "render:voice": "bun scripts/prepare.ts render 2 && bun scripts/export-audio.ts",
+    "build": "bun scripts/build.ts",
+    "test": "bun test",
+    "check": "bun build public/app.js --outdir /tmp/bob-loss-check --target browser"
+  }
+}

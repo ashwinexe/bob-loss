@@ -1,0 +1,1786 @@
+{
+  "version": 1,
+  "voice": "Bob Loss",
+  "chapters": [
+    {
+      "id": "ground",
+      "title": "A little colour to begin",
+      "paint": "Wide brush · Thin colour",
+      "text": "Well, hello there. I'm Bob Loss. Let's turn your photograph into a little painting... We'll start with a wide brush. Big patches of colour, nice and loose. Nothing needs to look like anything just yet. We're only giving the paint somewhere to go.",
+      "audio": "/audio/ground.mp3",
+      "duration": 17.84,
+      "words": [
+        {
+          "text": "Well,",
+          "start_s": 0.08,
+          "stop_s": 1.12
+        },
+        {
+          "text": "hello",
+          "start_s": 1.12,
+          "stop_s": 1.52
+        },
+        {
+          "text": "there.",
+          "start_s": 1.52,
+          "stop_s": 2.4
+        },
+        {
+          "text": "I'm",
+          "start_s": 2.4,
+          "stop_s": 2.64
+        },
+        {
+          "text": "Bob",
+          "start_s": 2.64,
+          "stop_s": 2.96
+        },
+        {
+          "text": "Loss.",
+          "start_s": 2.96,
+          "stop_s": 4
+        },
+        {
+          "text": "Let's",
+          "start_s": 4,
+          "stop_s": 4.24
+        },
+        {
+          "text": "turn",
+          "start_s": 4.24,
+          "stop_s": 4.56
+        },
+        {
+          "text": "your",
+          "start_s": 4.56,
+          "stop_s": 4.72
+        },
+        {
+          "text": "photograph",
+          "start_s": 4.72,
+          "stop_s": 5.52
+        },
+        {
+          "text": "into",
+          "start_s": 5.52,
+          "stop_s": 5.76
+        },
+        {
+          "text": "a",
+          "start_s": 5.76,
+          "stop_s": 5.84
+        },
+        {
+          "text": "little",
+          "start_s": 5.84,
+          "stop_s": 6.08
+        },
+        {
+          "text": "painting...",
+          "start_s": 6.08,
+          "stop_s": 7.12
+        },
+        {
+          "text": "We'll",
+          "start_s": 7.12,
+          "stop_s": 7.36
+        },
+        {
+          "text": "start",
+          "start_s": 7.36,
+          "stop_s": 7.68
+        },
+        {
+          "text": "with",
+          "start_s": 7.68,
+          "stop_s": 7.84
+        },
+        {
+          "text": "a",
+          "start_s": 7.84,
+          "stop_s": 8
+        },
+        {
+          "text": "wide",
+          "start_s": 8,
+          "stop_s": 8.32
+        },
+        {
+          "text": "brush.",
+          "start_s": 8.32,
+          "stop_s": 9.28
+        },
+        {
+          "text": "Big",
+          "start_s": 9.28,
+          "stop_s": 9.6
+        },
+        {
+          "text": "patches",
+          "start_s": 9.6,
+          "stop_s": 10
+        },
+        {
+          "text": "of",
+          "start_s": 10,
+          "stop_s": 10.16
+        },
+        {
+          "text": "colour,",
+          "start_s": 10.16,
+          "stop_s": 10.88
+        },
+        {
+          "text": "nice",
+          "start_s": 10.88,
+          "stop_s": 11.2
+        },
+        {
+          "text": "and",
+          "start_s": 11.2,
+          "stop_s": 11.36
+        },
+        {
+          "text": "loose.",
+          "start_s": 11.36,
+          "stop_s": 12.4
+        },
+        {
+          "text": "Nothing",
+          "start_s": 12.4,
+          "stop_s": 12.72
+        },
+        {
+          "text": "needs",
+          "start_s": 12.72,
+          "stop_s": 12.96
+        },
+        {
+          "text": "to",
+          "start_s": 12.96,
+          "stop_s": 13.12
+        },
+        {
+          "text": "look",
+          "start_s": 13.12,
+          "stop_s": 13.28
+        },
+        {
+          "text": "like",
+          "start_s": 13.28,
+          "stop_s": 13.6
+        },
+        {
+          "text": "anything",
+          "start_s": 13.6,
+          "stop_s": 14
+        },
+        {
+          "text": "just",
+          "start_s": 14,
+          "stop_s": 14.32
+        },
+        {
+          "text": "yet.",
+          "start_s": 14.32,
+          "stop_s": 15.2
+        },
+        {
+          "text": "We're",
+          "start_s": 15.2,
+          "stop_s": 15.44
+        },
+        {
+          "text": "only",
+          "start_s": 15.44,
+          "stop_s": 15.68
+        },
+        {
+          "text": "giving",
+          "start_s": 15.68,
+          "stop_s": 16
+        },
+        {
+          "text": "the",
+          "start_s": 16,
+          "stop_s": 16.16
+        },
+        {
+          "text": "paint",
+          "start_s": 16.16,
+          "stop_s": 16.48
+        },
+        {
+          "text": "somewhere",
+          "start_s": 16.48,
+          "stop_s": 16.96
+        },
+        {
+          "text": "to",
+          "start_s": 16.96,
+          "stop_s": 17.12
+        },
+        {
+          "text": "go.",
+          "start_s": 17.12,
+          "stop_s": 17.84
+        }
+      ]
+    },
+    {
+      "id": "planes",
+      "title": "Let the shapes settle",
+      "paint": "Broad strokes · Gentle pressure",
+      "text": "There we go... Let those colours sit beside each other. A light patch here, a darker one there. Keep your hand relaxed. If a little of the canvas peeks through, that's perfectly fine. We'll leave it a little room to breathe.",
+      "audio": "/audio/planes.mp3",
+      "duration": 16.24,
+      "words": [
+        {
+          "text": "There",
+          "start_s": 0.08,
+          "stop_s": 0.32
+        },
+        {
+          "text": "we",
+          "start_s": 0.32,
+          "stop_s": 0.48
+        },
+        {
+          "text": "go...",
+          "start_s": 0.48,
+          "stop_s": 1.36
+        },
+        {
+          "text": "Let",
+          "start_s": 1.36,
+          "stop_s": 1.52
+        },
+        {
+          "text": "those",
+          "start_s": 1.52,
+          "stop_s": 1.84
+        },
+        {
+          "text": "colours",
+          "start_s": 1.84,
+          "stop_s": 2.32
+        },
+        {
+          "text": "sit",
+          "start_s": 2.32,
+          "stop_s": 2.56
+        },
+        {
+          "text": "beside",
+          "start_s": 2.56,
+          "stop_s": 3.12
+        },
+        {
+          "text": "each",
+          "start_s": 3.12,
+          "stop_s": 3.36
+        },
+        {
+          "text": "other.",
+          "start_s": 3.36,
+          "stop_s": 4.24
+        },
+        {
+          "text": "A",
+          "start_s": 4.24,
+          "stop_s": 4.4
+        },
+        {
+          "text": "light",
+          "start_s": 4.4,
+          "stop_s": 4.72
+        },
+        {
+          "text": "patch",
+          "start_s": 4.72,
+          "stop_s": 5.12
+        },
+        {
+          "text": "here,",
+          "start_s": 5.12,
+          "stop_s": 5.84
+        },
+        {
+          "text": "a",
+          "start_s": 5.84,
+          "stop_s": 6
+        },
+        {
+          "text": "darker",
+          "start_s": 6,
+          "stop_s": 6.48
+        },
+        {
+          "text": "one",
+          "start_s": 6.48,
+          "stop_s": 6.72
+        },
+        {
+          "text": "there.",
+          "start_s": 6.72,
+          "stop_s": 7.6
+        },
+        {
+          "text": "Keep",
+          "start_s": 7.6,
+          "stop_s": 7.84
+        },
+        {
+          "text": "your",
+          "start_s": 7.84,
+          "stop_s": 8.08
+        },
+        {
+          "text": "hand",
+          "start_s": 8.08,
+          "stop_s": 8.4
+        },
+        {
+          "text": "relaxed.",
+          "start_s": 8.4,
+          "stop_s": 9.44
+        },
+        {
+          "text": "If",
+          "start_s": 9.44,
+          "stop_s": 9.6
+        },
+        {
+          "text": "a",
+          "start_s": 9.6,
+          "stop_s": 9.76
+        },
+        {
+          "text": "little",
+          "start_s": 9.76,
+          "stop_s": 10
+        },
+        {
+          "text": "of",
+          "start_s": 10,
+          "stop_s": 10.16
+        },
+        {
+          "text": "the",
+          "start_s": 10.16,
+          "stop_s": 10.32
+        },
+        {
+          "text": "canvas",
+          "start_s": 10.32,
+          "stop_s": 10.88
+        },
+        {
+          "text": "peeks",
+          "start_s": 10.88,
+          "stop_s": 11.28
+        },
+        {
+          "text": "through,",
+          "start_s": 11.28,
+          "stop_s": 12
+        },
+        {
+          "text": "that's",
+          "start_s": 12,
+          "stop_s": 12.4
+        },
+        {
+          "text": "perfectly",
+          "start_s": 12.4,
+          "stop_s": 12.96
+        },
+        {
+          "text": "fine.",
+          "start_s": 12.96,
+          "stop_s": 13.84
+        },
+        {
+          "text": "We'll",
+          "start_s": 13.84,
+          "stop_s": 14.08
+        },
+        {
+          "text": "leave",
+          "start_s": 14.08,
+          "stop_s": 14.32
+        },
+        {
+          "text": "it",
+          "start_s": 14.32,
+          "stop_s": 14.48
+        },
+        {
+          "text": "a",
+          "start_s": 14.48,
+          "stop_s": 14.56
+        },
+        {
+          "text": "little",
+          "start_s": 14.56,
+          "stop_s": 14.8
+        },
+        {
+          "text": "room",
+          "start_s": 14.8,
+          "stop_s": 15.12
+        },
+        {
+          "text": "to",
+          "start_s": 15.12,
+          "stop_s": 15.28
+        },
+        {
+          "text": "breathe.",
+          "start_s": 15.28,
+          "stop_s": 16.24
+        }
+      ]
+    },
+    {
+      "id": "forms",
+      "title": "Find the familiar shapes",
+      "paint": "Flat brush · Overlapping marks",
+      "text": "Now we're beginning to find the shapes in your photograph. A slightly smaller brush this time... Lay one mark beside another. You don't have to describe every little thing. Sometimes a few colours together tell you quite a lot.",
+      "audio": "/audio/forms.mp3",
+      "duration": 14.16,
+      "words": [
+        {
+          "text": "Now",
+          "start_s": 0.08,
+          "stop_s": 0.4
+        },
+        {
+          "text": "we're",
+          "start_s": 0.4,
+          "stop_s": 0.64
+        },
+        {
+          "text": "beginning",
+          "start_s": 0.64,
+          "stop_s": 1.04
+        },
+        {
+          "text": "to",
+          "start_s": 1.04,
+          "stop_s": 1.2
+        },
+        {
+          "text": "find",
+          "start_s": 1.2,
+          "stop_s": 1.6
+        },
+        {
+          "text": "the",
+          "start_s": 1.6,
+          "stop_s": 1.76
+        },
+        {
+          "text": "shapes",
+          "start_s": 1.76,
+          "stop_s": 2.08
+        },
+        {
+          "text": "in",
+          "start_s": 2.08,
+          "stop_s": 2.24
+        },
+        {
+          "text": "your",
+          "start_s": 2.24,
+          "stop_s": 2.4
+        },
+        {
+          "text": "photograph.",
+          "start_s": 2.4,
+          "stop_s": 3.44
+        },
+        {
+          "text": "A",
+          "start_s": 3.44,
+          "stop_s": 3.68
+        },
+        {
+          "text": "slightly",
+          "start_s": 3.68,
+          "stop_s": 4.16
+        },
+        {
+          "text": "smaller",
+          "start_s": 4.16,
+          "stop_s": 4.64
+        },
+        {
+          "text": "brush",
+          "start_s": 4.64,
+          "stop_s": 4.96
+        },
+        {
+          "text": "this",
+          "start_s": 4.96,
+          "stop_s": 5.2
+        },
+        {
+          "text": "time...",
+          "start_s": 5.2,
+          "stop_s": 6.08
+        },
+        {
+          "text": "Lay",
+          "start_s": 6.08,
+          "stop_s": 6.32
+        },
+        {
+          "text": "one",
+          "start_s": 6.32,
+          "stop_s": 6.56
+        },
+        {
+          "text": "mark",
+          "start_s": 6.56,
+          "stop_s": 6.88
+        },
+        {
+          "text": "beside",
+          "start_s": 6.88,
+          "stop_s": 7.28
+        },
+        {
+          "text": "another.",
+          "start_s": 7.28,
+          "stop_s": 8.16
+        },
+        {
+          "text": "You",
+          "start_s": 8.16,
+          "stop_s": 8.32
+        },
+        {
+          "text": "don't",
+          "start_s": 8.32,
+          "stop_s": 8.56
+        },
+        {
+          "text": "have",
+          "start_s": 8.56,
+          "stop_s": 8.8
+        },
+        {
+          "text": "to",
+          "start_s": 8.8,
+          "stop_s": 8.88
+        },
+        {
+          "text": "describe",
+          "start_s": 8.88,
+          "stop_s": 9.44
+        },
+        {
+          "text": "every",
+          "start_s": 9.44,
+          "stop_s": 9.68
+        },
+        {
+          "text": "little",
+          "start_s": 9.68,
+          "stop_s": 10
+        },
+        {
+          "text": "thing.",
+          "start_s": 10,
+          "stop_s": 10.72
+        },
+        {
+          "text": "Sometimes",
+          "start_s": 10.72,
+          "stop_s": 11.36
+        },
+        {
+          "text": "a",
+          "start_s": 11.36,
+          "stop_s": 11.44
+        },
+        {
+          "text": "few",
+          "start_s": 11.44,
+          "stop_s": 11.68
+        },
+        {
+          "text": "colours",
+          "start_s": 11.68,
+          "stop_s": 12.08
+        },
+        {
+          "text": "together",
+          "start_s": 12.08,
+          "stop_s": 12.56
+        },
+        {
+          "text": "tell",
+          "start_s": 12.56,
+          "stop_s": 12.8
+        },
+        {
+          "text": "you",
+          "start_s": 12.8,
+          "stop_s": 12.96
+        },
+        {
+          "text": "quite",
+          "start_s": 12.96,
+          "stop_s": 13.28
+        },
+        {
+          "text": "a",
+          "start_s": 13.28,
+          "stop_s": 13.44
+        },
+        {
+          "text": "lot.",
+          "start_s": 13.44,
+          "stop_s": 14.16
+        }
+      ]
+    },
+    {
+      "id": "edges",
+      "title": "A few clearer edges",
+      "paint": "Turn the brush · Follow the form",
+      "text": "Let's give a few of those edges a little attention. Turn the brush as the shape turns. Softly now... Some edges can stay blurry. Others need a firmer touch. It gives your eye something to follow, without making every part of the painting shout.",
+      "audio": "/audio/edges.mp3",
+      "duration": 15.76,
+      "words": [
+        {
+          "text": "Let's",
+          "start_s": 0.08,
+          "stop_s": 0.4
+        },
+        {
+          "text": "give",
+          "start_s": 0.4,
+          "stop_s": 0.48
+        },
+        {
+          "text": "a",
+          "start_s": 0.48,
+          "stop_s": 0.64
+        },
+        {
+          "text": "few",
+          "start_s": 0.64,
+          "stop_s": 0.96
+        },
+        {
+          "text": "of",
+          "start_s": 0.96,
+          "stop_s": 1.04
+        },
+        {
+          "text": "those",
+          "start_s": 1.04,
+          "stop_s": 1.36
+        },
+        {
+          "text": "edges",
+          "start_s": 1.36,
+          "stop_s": 1.76
+        },
+        {
+          "text": "a",
+          "start_s": 1.76,
+          "stop_s": 1.84
+        },
+        {
+          "text": "little",
+          "start_s": 1.84,
+          "stop_s": 2.08
+        },
+        {
+          "text": "attention.",
+          "start_s": 2.08,
+          "stop_s": 3.04
+        },
+        {
+          "text": "Turn",
+          "start_s": 3.04,
+          "stop_s": 3.36
+        },
+        {
+          "text": "the",
+          "start_s": 3.36,
+          "stop_s": 3.52
+        },
+        {
+          "text": "brush",
+          "start_s": 3.52,
+          "stop_s": 3.84
+        },
+        {
+          "text": "as",
+          "start_s": 3.84,
+          "stop_s": 4
+        },
+        {
+          "text": "the",
+          "start_s": 4,
+          "stop_s": 4.16
+        },
+        {
+          "text": "shape",
+          "start_s": 4.16,
+          "stop_s": 4.48
+        },
+        {
+          "text": "turns.",
+          "start_s": 4.48,
+          "stop_s": 5.52
+        },
+        {
+          "text": "Softly",
+          "start_s": 5.52,
+          "stop_s": 6.08
+        },
+        {
+          "text": "now...",
+          "start_s": 6.08,
+          "stop_s": 6.8
+        },
+        {
+          "text": "Some",
+          "start_s": 6.8,
+          "stop_s": 7.12
+        },
+        {
+          "text": "edges",
+          "start_s": 7.12,
+          "stop_s": 7.44
+        },
+        {
+          "text": "can",
+          "start_s": 7.44,
+          "stop_s": 7.6
+        },
+        {
+          "text": "stay",
+          "start_s": 7.6,
+          "stop_s": 7.92
+        },
+        {
+          "text": "blurry.",
+          "start_s": 7.92,
+          "stop_s": 8.8
+        },
+        {
+          "text": "Others",
+          "start_s": 8.8,
+          "stop_s": 9.12
+        },
+        {
+          "text": "need",
+          "start_s": 9.12,
+          "stop_s": 9.36
+        },
+        {
+          "text": "a",
+          "start_s": 9.36,
+          "stop_s": 9.44
+        },
+        {
+          "text": "firmer",
+          "start_s": 9.44,
+          "stop_s": 9.92
+        },
+        {
+          "text": "touch.",
+          "start_s": 9.92,
+          "stop_s": 10.8
+        },
+        {
+          "text": "It",
+          "start_s": 10.8,
+          "stop_s": 10.88
+        },
+        {
+          "text": "gives",
+          "start_s": 10.88,
+          "stop_s": 11.12
+        },
+        {
+          "text": "your",
+          "start_s": 11.12,
+          "stop_s": 11.36
+        },
+        {
+          "text": "eye",
+          "start_s": 11.36,
+          "stop_s": 11.6
+        },
+        {
+          "text": "something",
+          "start_s": 11.6,
+          "stop_s": 11.92
+        },
+        {
+          "text": "to",
+          "start_s": 11.92,
+          "stop_s": 12.08
+        },
+        {
+          "text": "follow,",
+          "start_s": 12.08,
+          "stop_s": 12.88
+        },
+        {
+          "text": "without",
+          "start_s": 12.88,
+          "stop_s": 13.28
+        },
+        {
+          "text": "making",
+          "start_s": 13.28,
+          "stop_s": 13.68
+        },
+        {
+          "text": "every",
+          "start_s": 13.68,
+          "stop_s": 14.08
+        },
+        {
+          "text": "part",
+          "start_s": 14.08,
+          "stop_s": 14.32
+        },
+        {
+          "text": "of",
+          "start_s": 14.32,
+          "stop_s": 14.4
+        },
+        {
+          "text": "the",
+          "start_s": 14.4,
+          "stop_s": 14.56
+        },
+        {
+          "text": "painting",
+          "start_s": 14.56,
+          "stop_s": 14.96
+        },
+        {
+          "text": "shout.",
+          "start_s": 14.96,
+          "stop_s": 15.76
+        }
+      ]
+    },
+    {
+      "id": "colour",
+      "title": "Keep some warmth in it",
+      "paint": "Small brush · Warm and cool",
+      "text": "Look at those little changes in colour. A warm touch next to a cool one... We can leave the strokes showing. I rather like seeing how a painting was made. It's a bit like finding footprints on a path. You can see where someone has been.",
+      "audio": "/audio/colour.mp3",
+      "duration": 15.04,
+      "words": [
+        {
+          "text": "Look",
+          "start_s": 0.08,
+          "stop_s": 0.32
+        },
+        {
+          "text": "at",
+          "start_s": 0.32,
+          "stop_s": 0.4
+        },
+        {
+          "text": "those",
+          "start_s": 0.4,
+          "stop_s": 0.72
+        },
+        {
+          "text": "little",
+          "start_s": 0.72,
+          "stop_s": 0.96
+        },
+        {
+          "text": "changes",
+          "start_s": 0.96,
+          "stop_s": 1.44
+        },
+        {
+          "text": "in",
+          "start_s": 1.44,
+          "stop_s": 1.6
+        },
+        {
+          "text": "colour.",
+          "start_s": 1.6,
+          "stop_s": 2.64
+        },
+        {
+          "text": "A",
+          "start_s": 2.64,
+          "stop_s": 2.8
+        },
+        {
+          "text": "warm",
+          "start_s": 2.8,
+          "stop_s": 3.2
+        },
+        {
+          "text": "touch",
+          "start_s": 3.2,
+          "stop_s": 3.52
+        },
+        {
+          "text": "next",
+          "start_s": 3.52,
+          "stop_s": 3.84
+        },
+        {
+          "text": "to",
+          "start_s": 3.84,
+          "stop_s": 4
+        },
+        {
+          "text": "a",
+          "start_s": 4,
+          "stop_s": 4.08
+        },
+        {
+          "text": "cool",
+          "start_s": 4.08,
+          "stop_s": 4.4
+        },
+        {
+          "text": "one...",
+          "start_s": 4.4,
+          "stop_s": 5.28
+        },
+        {
+          "text": "We",
+          "start_s": 5.28,
+          "stop_s": 5.36
+        },
+        {
+          "text": "can",
+          "start_s": 5.36,
+          "stop_s": 5.52
+        },
+        {
+          "text": "leave",
+          "start_s": 5.52,
+          "stop_s": 5.84
+        },
+        {
+          "text": "the",
+          "start_s": 5.84,
+          "stop_s": 5.92
+        },
+        {
+          "text": "strokes",
+          "start_s": 5.92,
+          "stop_s": 6.32
+        },
+        {
+          "text": "showing.",
+          "start_s": 6.32,
+          "stop_s": 7.36
+        },
+        {
+          "text": "I",
+          "start_s": 7.36,
+          "stop_s": 7.44
+        },
+        {
+          "text": "rather",
+          "start_s": 7.44,
+          "stop_s": 7.76
+        },
+        {
+          "text": "like",
+          "start_s": 7.76,
+          "stop_s": 8
+        },
+        {
+          "text": "seeing",
+          "start_s": 8,
+          "stop_s": 8.32
+        },
+        {
+          "text": "how",
+          "start_s": 8.32,
+          "stop_s": 8.48
+        },
+        {
+          "text": "a",
+          "start_s": 8.48,
+          "stop_s": 8.64
+        },
+        {
+          "text": "painting",
+          "start_s": 8.64,
+          "stop_s": 9.04
+        },
+        {
+          "text": "was",
+          "start_s": 9.04,
+          "stop_s": 9.28
+        },
+        {
+          "text": "made.",
+          "start_s": 9.28,
+          "stop_s": 10.16
+        },
+        {
+          "text": "It's",
+          "start_s": 10.16,
+          "stop_s": 10.4
+        },
+        {
+          "text": "a",
+          "start_s": 10.4,
+          "stop_s": 10.48
+        },
+        {
+          "text": "bit",
+          "start_s": 10.48,
+          "stop_s": 10.64
+        },
+        {
+          "text": "like",
+          "start_s": 10.64,
+          "stop_s": 10.88
+        },
+        {
+          "text": "finding",
+          "start_s": 10.88,
+          "stop_s": 11.28
+        },
+        {
+          "text": "footprints",
+          "start_s": 11.28,
+          "stop_s": 11.84
+        },
+        {
+          "text": "on",
+          "start_s": 11.84,
+          "stop_s": 12
+        },
+        {
+          "text": "a",
+          "start_s": 12,
+          "stop_s": 12.08
+        },
+        {
+          "text": "path.",
+          "start_s": 12.08,
+          "stop_s": 12.96
+        },
+        {
+          "text": "You",
+          "start_s": 12.96,
+          "stop_s": 13.12
+        },
+        {
+          "text": "can",
+          "start_s": 13.12,
+          "stop_s": 13.28
+        },
+        {
+          "text": "see",
+          "start_s": 13.28,
+          "stop_s": 13.52
+        },
+        {
+          "text": "where",
+          "start_s": 13.52,
+          "stop_s": 13.68
+        },
+        {
+          "text": "someone",
+          "start_s": 13.68,
+          "stop_s": 14.08
+        },
+        {
+          "text": "has",
+          "start_s": 14.08,
+          "stop_s": 14.32
+        },
+        {
+          "text": "been.",
+          "start_s": 14.32,
+          "stop_s": 15.04
+        }
+      ]
+    },
+    {
+      "id": "accents",
+      "title": "Let the little details arrive",
+      "paint": "Short strokes · Light touches",
+      "text": "Just a few smaller marks now. The places where light meets dark... Easy does it. There's no need to polish all the life out of it. If a brushstroke wanders a little, we'll let it stay. It might know a nice place to go.",
+      "audio": "/audio/accents.mp3",
+      "duration": 16.08,
+      "words": [
+        {
+          "text": "Just",
+          "start_s": 0.08,
+          "stop_s": 0.56
+        },
+        {
+          "text": "a",
+          "start_s": 0.56,
+          "stop_s": 0.72
+        },
+        {
+          "text": "few",
+          "start_s": 0.72,
+          "stop_s": 1.04
+        },
+        {
+          "text": "smaller",
+          "start_s": 1.04,
+          "stop_s": 1.52
+        },
+        {
+          "text": "marks",
+          "start_s": 1.52,
+          "stop_s": 1.92
+        },
+        {
+          "text": "now.",
+          "start_s": 1.92,
+          "stop_s": 2.8
+        },
+        {
+          "text": "The",
+          "start_s": 2.8,
+          "stop_s": 2.96
+        },
+        {
+          "text": "places",
+          "start_s": 2.96,
+          "stop_s": 3.44
+        },
+        {
+          "text": "where",
+          "start_s": 3.44,
+          "stop_s": 3.68
+        },
+        {
+          "text": "light",
+          "start_s": 3.68,
+          "stop_s": 4.08
+        },
+        {
+          "text": "meets",
+          "start_s": 4.08,
+          "stop_s": 4.48
+        },
+        {
+          "text": "dark...",
+          "start_s": 4.48,
+          "stop_s": 5.36
+        },
+        {
+          "text": "Easy",
+          "start_s": 5.36,
+          "stop_s": 5.76
+        },
+        {
+          "text": "does",
+          "start_s": 5.76,
+          "stop_s": 6.08
+        },
+        {
+          "text": "it.",
+          "start_s": 6.08,
+          "stop_s": 6.96
+        },
+        {
+          "text": "There's",
+          "start_s": 6.96,
+          "stop_s": 7.28
+        },
+        {
+          "text": "no",
+          "start_s": 7.28,
+          "stop_s": 7.52
+        },
+        {
+          "text": "need",
+          "start_s": 7.52,
+          "stop_s": 7.76
+        },
+        {
+          "text": "to",
+          "start_s": 7.76,
+          "stop_s": 7.92
+        },
+        {
+          "text": "polish",
+          "start_s": 7.92,
+          "stop_s": 8.4
+        },
+        {
+          "text": "all",
+          "start_s": 8.4,
+          "stop_s": 8.56
+        },
+        {
+          "text": "the",
+          "start_s": 8.56,
+          "stop_s": 8.72
+        },
+        {
+          "text": "life",
+          "start_s": 8.72,
+          "stop_s": 9.04
+        },
+        {
+          "text": "out",
+          "start_s": 9.04,
+          "stop_s": 9.2
+        },
+        {
+          "text": "of",
+          "start_s": 9.2,
+          "stop_s": 9.36
+        },
+        {
+          "text": "it.",
+          "start_s": 9.36,
+          "stop_s": 10.24
+        },
+        {
+          "text": "If",
+          "start_s": 10.24,
+          "stop_s": 10.4
+        },
+        {
+          "text": "a",
+          "start_s": 10.4,
+          "stop_s": 10.48
+        },
+        {
+          "text": "brushstroke",
+          "start_s": 10.48,
+          "stop_s": 11.2
+        },
+        {
+          "text": "wanders",
+          "start_s": 11.2,
+          "stop_s": 11.6
+        },
+        {
+          "text": "a",
+          "start_s": 11.6,
+          "stop_s": 11.76
+        },
+        {
+          "text": "little,",
+          "start_s": 11.76,
+          "stop_s": 12.32
+        },
+        {
+          "text": "we'll",
+          "start_s": 12.32,
+          "stop_s": 12.56
+        },
+        {
+          "text": "let",
+          "start_s": 12.56,
+          "stop_s": 12.72
+        },
+        {
+          "text": "it",
+          "start_s": 12.72,
+          "stop_s": 12.88
+        },
+        {
+          "text": "stay.",
+          "start_s": 12.88,
+          "stop_s": 13.76
+        },
+        {
+          "text": "It",
+          "start_s": 13.76,
+          "stop_s": 13.92
+        },
+        {
+          "text": "might",
+          "start_s": 13.92,
+          "stop_s": 14.16
+        },
+        {
+          "text": "know",
+          "start_s": 14.16,
+          "stop_s": 14.4
+        },
+        {
+          "text": "a",
+          "start_s": 14.4,
+          "stop_s": 14.48
+        },
+        {
+          "text": "nice",
+          "start_s": 14.48,
+          "stop_s": 14.8
+        },
+        {
+          "text": "place",
+          "start_s": 14.8,
+          "stop_s": 15.2
+        },
+        {
+          "text": "to",
+          "start_s": 15.2,
+          "stop_s": 15.36
+        },
+        {
+          "text": "go.",
+          "start_s": 15.36,
+          "stop_s": 16.08
+        }
+      ]
+    },
+    {
+      "id": "texture",
+      "title": "Leave a little brushwork",
+      "paint": "Dry bristles · Broken colour",
+      "text": "We'll drag the bristles very lightly across a few of those shapes. See how the colour breaks? That's the texture we want... A little roughness, a little movement. Your photograph gave us a place to begin. The paint gets to have a say too.",
+      "audio": "/audio/texture.mp3",
+      "duration": 15.84,
+      "words": [
+        {
+          "text": "We'll",
+          "start_s": 0.08,
+          "stop_s": 0.4
+        },
+        {
+          "text": "drag",
+          "start_s": 0.4,
+          "stop_s": 0.64
+        },
+        {
+          "text": "the",
+          "start_s": 0.64,
+          "stop_s": 0.8
+        },
+        {
+          "text": "bristles",
+          "start_s": 0.8,
+          "stop_s": 1.28
+        },
+        {
+          "text": "very",
+          "start_s": 1.28,
+          "stop_s": 1.6
+        },
+        {
+          "text": "lightly",
+          "start_s": 1.6,
+          "stop_s": 2.08
+        },
+        {
+          "text": "across",
+          "start_s": 2.08,
+          "stop_s": 2.48
+        },
+        {
+          "text": "a",
+          "start_s": 2.48,
+          "stop_s": 2.56
+        },
+        {
+          "text": "few",
+          "start_s": 2.56,
+          "stop_s": 2.8
+        },
+        {
+          "text": "of",
+          "start_s": 2.8,
+          "stop_s": 2.96
+        },
+        {
+          "text": "those",
+          "start_s": 2.96,
+          "stop_s": 3.28
+        },
+        {
+          "text": "shapes.",
+          "start_s": 3.28,
+          "stop_s": 4.32
+        },
+        {
+          "text": "See",
+          "start_s": 4.32,
+          "stop_s": 4.56
+        },
+        {
+          "text": "how",
+          "start_s": 4.56,
+          "stop_s": 4.72
+        },
+        {
+          "text": "the",
+          "start_s": 4.72,
+          "stop_s": 4.88
+        },
+        {
+          "text": "colour",
+          "start_s": 4.88,
+          "stop_s": 5.2
+        },
+        {
+          "text": "breaks?",
+          "start_s": 5.2,
+          "stop_s": 6.24
+        },
+        {
+          "text": "That's",
+          "start_s": 6.24,
+          "stop_s": 6.48
+        },
+        {
+          "text": "the",
+          "start_s": 6.48,
+          "stop_s": 6.56
+        },
+        {
+          "text": "texture",
+          "start_s": 6.56,
+          "stop_s": 7.12
+        },
+        {
+          "text": "we",
+          "start_s": 7.12,
+          "stop_s": 7.28
+        },
+        {
+          "text": "want...",
+          "start_s": 7.28,
+          "stop_s": 8.16
+        },
+        {
+          "text": "A",
+          "start_s": 8.16,
+          "stop_s": 8.24
+        },
+        {
+          "text": "little",
+          "start_s": 8.24,
+          "stop_s": 8.48
+        },
+        {
+          "text": "roughness,",
+          "start_s": 8.48,
+          "stop_s": 9.44
+        },
+        {
+          "text": "a",
+          "start_s": 9.44,
+          "stop_s": 9.52
+        },
+        {
+          "text": "little",
+          "start_s": 9.52,
+          "stop_s": 9.84
+        },
+        {
+          "text": "movement.",
+          "start_s": 9.84,
+          "stop_s": 10.88
+        },
+        {
+          "text": "Your",
+          "start_s": 10.88,
+          "stop_s": 11.04
+        },
+        {
+          "text": "photograph",
+          "start_s": 11.04,
+          "stop_s": 11.76
+        },
+        {
+          "text": "gave",
+          "start_s": 11.76,
+          "stop_s": 12
+        },
+        {
+          "text": "us",
+          "start_s": 12,
+          "stop_s": 12.16
+        },
+        {
+          "text": "a",
+          "start_s": 12.16,
+          "stop_s": 12.24
+        },
+        {
+          "text": "place",
+          "start_s": 12.24,
+          "stop_s": 12.56
+        },
+        {
+          "text": "to",
+          "start_s": 12.56,
+          "stop_s": 12.72
+        },
+        {
+          "text": "begin.",
+          "start_s": 12.72,
+          "stop_s": 13.6
+        },
+        {
+          "text": "The",
+          "start_s": 13.6,
+          "stop_s": 13.76
+        },
+        {
+          "text": "paint",
+          "start_s": 13.76,
+          "stop_s": 14.08
+        },
+        {
+          "text": "gets",
+          "start_s": 14.08,
+          "stop_s": 14.32
+        },
+        {
+          "text": "to",
+          "start_s": 14.32,
+          "stop_s": 14.48
+        },
+        {
+          "text": "have",
+          "start_s": 14.48,
+          "stop_s": 14.64
+        },
+        {
+          "text": "a",
+          "start_s": 14.64,
+          "stop_s": 14.8
+        },
+        {
+          "text": "say",
+          "start_s": 14.8,
+          "stop_s": 15.04
+        },
+        {
+          "text": "too.",
+          "start_s": 15.04,
+          "stop_s": 15.84
+        }
+      ]
+    },
+    {
+      "id": "finish",
+      "title": "A painting to keep",
+      "paint": "Final accents · Leave it loose",
+      "text": "One or two finishing touches... And there we are. A little painting of your own. You can save it, share it, or bring another photograph and we'll paint together again... Thank you for spending a little time with me.",
+      "audio": "/audio/finish.mp3",
+      "duration": 13.92,
+      "words": [
+        {
+          "text": "One",
+          "start_s": 0.08,
+          "stop_s": 0.4
+        },
+        {
+          "text": "or",
+          "start_s": 0.4,
+          "stop_s": 0.64
+        },
+        {
+          "text": "two",
+          "start_s": 0.64,
+          "stop_s": 0.88
+        },
+        {
+          "text": "finishing",
+          "start_s": 0.88,
+          "stop_s": 1.44
+        },
+        {
+          "text": "touches...",
+          "start_s": 1.44,
+          "stop_s": 2.48
+        },
+        {
+          "text": "And",
+          "start_s": 2.48,
+          "stop_s": 2.56
+        },
+        {
+          "text": "there",
+          "start_s": 2.56,
+          "stop_s": 2.72
+        },
+        {
+          "text": "we",
+          "start_s": 2.72,
+          "stop_s": 2.96
+        },
+        {
+          "text": "are.",
+          "start_s": 2.96,
+          "stop_s": 3.84
+        },
+        {
+          "text": "A",
+          "start_s": 3.84,
+          "stop_s": 3.92
+        },
+        {
+          "text": "little",
+          "start_s": 3.92,
+          "stop_s": 4.24
+        },
+        {
+          "text": "painting",
+          "start_s": 4.24,
+          "stop_s": 4.64
+        },
+        {
+          "text": "of",
+          "start_s": 4.64,
+          "stop_s": 4.8
+        },
+        {
+          "text": "your",
+          "start_s": 4.8,
+          "stop_s": 4.96
+        },
+        {
+          "text": "own.",
+          "start_s": 4.96,
+          "stop_s": 5.84
+        },
+        {
+          "text": "You",
+          "start_s": 5.84,
+          "stop_s": 6
+        },
+        {
+          "text": "can",
+          "start_s": 6,
+          "stop_s": 6.16
+        },
+        {
+          "text": "save",
+          "start_s": 6.16,
+          "stop_s": 6.56
+        },
+        {
+          "text": "it,",
+          "start_s": 6.56,
+          "stop_s": 6.96
+        },
+        {
+          "text": "share",
+          "start_s": 6.96,
+          "stop_s": 7.28
+        },
+        {
+          "text": "it,",
+          "start_s": 7.28,
+          "stop_s": 7.84
+        },
+        {
+          "text": "or",
+          "start_s": 7.84,
+          "stop_s": 8
+        },
+        {
+          "text": "bring",
+          "start_s": 8,
+          "stop_s": 8.24
+        },
+        {
+          "text": "another",
+          "start_s": 8.24,
+          "stop_s": 8.64
+        },
+        {
+          "text": "photograph",
+          "start_s": 8.64,
+          "stop_s": 9.36
+        },
+        {
+          "text": "and",
+          "start_s": 9.36,
+          "stop_s": 9.52
+        },
+        {
+          "text": "we'll",
+          "start_s": 9.52,
+          "stop_s": 9.76
+        },
+        {
+          "text": "paint",
+          "start_s": 9.76,
+          "stop_s": 10
+        },
+        {
+          "text": "together",
+          "start_s": 10,
+          "stop_s": 10.48
+        },
+        {
+          "text": "again...",
+          "start_s": 10.48,
+          "stop_s": 11.36
+        },
+        {
+          "text": "Thank",
+          "start_s": 11.36,
+          "stop_s": 11.68
+        },
+        {
+          "text": "you",
+          "start_s": 11.68,
+          "stop_s": 11.76
+        },
+        {
+          "text": "for",
+          "start_s": 11.76,
+          "stop_s": 11.92
+        },
+        {
+          "text": "spending",
+          "start_s": 11.92,
+          "stop_s": 12.32
+        },
+        {
+          "text": "a",
+          "start_s": 12.32,
+          "stop_s": 12.4
+        },
+        {
+          "text": "little",
+          "start_s": 12.4,
+          "stop_s": 12.64
+        },
+        {
+          "text": "time",
+          "start_s": 12.64,
+          "stop_s": 12.96
+        },
+        {
+          "text": "with",
+          "start_s": 12.96,
+          "stop_s": 13.2
+        },
+        {
+          "text": "me.",
+          "start_s": 13.2,
+          "stop_s": 13.92
+        }
+      ]
+    }
+  ]
+}
