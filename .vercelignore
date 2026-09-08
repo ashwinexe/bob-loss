@@ -1,5 +1,4 @@
-*
-!public/
-!public/**
+/*
+!public
 !vercel.json
 !package.json
