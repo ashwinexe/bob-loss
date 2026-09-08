@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+node_modules/
+.DS_Store
+data/
+artifacts/
+dist/
+.vercel/
+.agents/
+.claude/
+.codex/
+skills-lock.json
+.publish/
